@@ -1,0 +1,14 @@
+export const Logout = 'Logout';
+export const AuthGuard = 'AuthGuard';
+export const RESET_INITIAL_STATE = 'RESET_INITIAL_STATE';
+export const EmpDetails = 'EmpDetails';
+export const BirthdayData = 'BirthdayData';
+export const CanactiveError = 'CanactiveError';
+export const RefereshTokencallError = 'RefereshTokencallError'
+export const RESET_VALIDATION = 'RESET_VALIDATION'
+export const Report = 'Report';
+export const Request = 'Request';
+export const ManageEmployee = 'ManageEmployee';
+export const SelectedOption = 'SelectedOption';
+export const HOLIDAYLIST = 'HOLIDAYLIST';
+export const WeeklyReport = "WeeklyReport"

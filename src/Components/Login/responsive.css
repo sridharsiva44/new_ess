@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@media (max-width: 1399.98px) {
+    
+}
+@media (max-width: 1199.98px) {
+    
+}
+@media (max-width: 991.98px) {
+    .login {
+        background-image: none;
+    }
+}
+@media (max-width: 767.98px) {
+    .sidebar {
+        padding: 10px;
+        top: 81px;
+        z-index: 9999;
+        overflow: auto;
+    }
+    .navbar-brand {
+        width: 100%;
+        text-align: left;
+    }
+}
+@media (max-width: 575.98px) {
+    
+}
